@@ -1,1 +1,1 @@
-<h1>Data Structures and Algorithms implementation in Python</h1>
+<h2>Data Structures and Algorithms implementation in Python</h2>
